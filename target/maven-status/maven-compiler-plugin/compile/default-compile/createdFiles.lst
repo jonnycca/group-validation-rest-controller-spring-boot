@@ -1,6 +1,0 @@
-com\example\goupvalidationexample\controller\exception\FieldValidationException.class
-com\example\goupvalidationexample\controller\ExampleController.class
-com\example\goupvalidationexample\controller\request\ExampleRequest.class
-com\example\goupvalidationexample\commom\http\exception\exception\ExceptionHandlingController.class
-com\example\goupvalidationexample\GoupValidationExampleApplication.class
-com\example\goupvalidationexample\controller\validation\Field1NotPresent.class
