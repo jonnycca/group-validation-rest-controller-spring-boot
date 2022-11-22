@@ -5,7 +5,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-import javax.validation.Valid;
 import javax.validation.constraints.NotNull;
 
 @Getter
@@ -15,7 +14,6 @@ public class ExampleRequest {
 
     private String field1;
 
-    @Valid
     @NotNull(groups = Field1NotPresent.class)
     private String field2;
 }
